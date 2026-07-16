@@ -9,7 +9,7 @@
 			},
 			"options": {
 				"env": {
-					"DM_EXE": "${config:dreammaker.byondPath}"
+					"DM_EXE": "E:/_Kirill/Programms/BYOND/bin/dm.exe"
 				}
 			},
 			"problemMatcher": [
